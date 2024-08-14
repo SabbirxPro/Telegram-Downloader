@@ -269,9 +269,9 @@ https://t.me/b/botusername/4321
 __send public/private posts link as explained above with formate "from - to" to send multiple messages like below__
 
 ```
-https://t.me/xxxx/1001-1010
+https://t.me/cloud_Movie_Zone/1001-1010
 
-https://t.me/c/xxxx/101 - 120
+https://t.me/c/cloud_Movie_Zone/101 - 120
 ```
 
 __note that space in between doesn't matter__
